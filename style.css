@@ -21,3 +21,8 @@ p{
 h2{
     font-family: cursive;
 }
+.img1{
+    height: 200px;
+    width: 390px;
+    background-color: aliceblue;
+}
