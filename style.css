@@ -48,3 +48,7 @@ nav{
     border-radius: 20px;
     box-shadow: 5px 5px 5px 5px black ;
 }
+.bar{
+    background-color: black;
+    border-radius: 20px;
+}
